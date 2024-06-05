@@ -5,7 +5,7 @@ ID,Date,Day of week,Time of day,Platform,Video or Image?,Views (in thousands),Li
 4,2/2/2024,Friday,11:47,TikTok,Video,4.5,261,3,10,10,"main character, semester",#spring2024 #washu #wustl #maincharacter #fortheplot,,no,no,y,n,0.21,0.78,20,6.3,4,0.68,0.18,0.05,0.06,0.02,0.32,0.6
 5,2/5/2024,Monday,11:24,TikTok,Image,3.9,151,1,12,5,academic weapon,#college #university #washu #trending #textback,,no,no,n,n,0.19,0.8,,,3,0.71,0.17,0.05,0.04,0.02,0.39,0.69
 6,2/6/2024,Tuesday,10:50,TikTok,Video,16.1,1600,18,19,29,"fetch, mean girls",#washu #wustl #meangirls #meangirlsmovie #reginageorge #college #trending,,no,no,n,n,0.14,0.85,16,9.4,8,0.76,0.17,0.03,0.03,0.02,0.53,0.8
-7,2/7/2024,Wednesday,13:19,TikTok,Video,65.4,15800,126,491,916,"Anime, satosugu",#campus #anime #college #collegelife #washu #satosugu,,no,no,n,n,0.1515,0.8485,15.5,9.2,58,0.8,0.16,0.02,0.01,0.02,0.8,0.95
+7,2/7/2024,Wednesday,13:19,TikTok,Video,65.4,15800,126,491,916,anime,#campus #anime #college #collegelife #washu #satosugu,,no,no,n,n,0.1515,0.8485,15.5,9.2,58,0.8,0.16,0.02,0.01,0.02,0.8,0.95
 8,2/8/2024,Thursday,14:17,TikTok,Video,"1,400.0",218500,137,838,5400,"tour, ambassador",#washu #college #collegestudent #collegetour,,no,no,n,n,0.16,0.83,5,8.4,531,0.77,0.17,0.03,0.02,0.02,0.9,1
 9,2/9/2024,Friday,12:42,TikTok,Video,5.2,281,4,30,7,comfort dogs,#washu #wustl #comfortdogs #campusdogs #campuslife #dayinmylifeasadog,,no,no,n,y,0.23,0.76,57,9.8,4,0.67,0.19,0.05,0.06,0.02,0.29,0.57
 10,2/13/2024,Tuesday,9:49,TikTok,Video,6.7,451,2,46,9,"copenhagen, abroad",#washu #studyabroad #copenhagen #denmark #college #collegestudent #collegelife,,no,no,n,y,0.24,0.75,76,13.7,2,0.67,0.19,0.05,0.06,0.02,0.25,0.6
@@ -26,7 +26,7 @@ ID,Date,Day of week,Time of day,Platform,Video or Image?,Views (in thousands),Li
 25,3/15/2024,Friday,17:17,TikTok,Video,14.3,467,1,12,11,"purse, merch",#washu #wustl #college #purse #collegestudent,,yes,no,n,n,0.1782,0.8119,12.45,5.5,6,0.66,0.25,0.04,0.03,0.02,0.45,0.82
 26,3/19/2024,Tuesday,14:56,TikTok,Video,"3,800.0",383700,1300,4600,9400,match. med school,#WashU #WUSTL #MatchDay2024 #MatchDay #MedSchool #Match,WashU School of Medicine,no,no,n,y,0.2,0.79,140,33.5,2263,0.5,0.35,0.09,0.04,0.02,0.89,1
 27,3/20/2024,Wednesday,16:02,TikTok,Video,16.7,917,11,40,15,2028,#washu #wustl #students #classof2028 #washu28 #acceptance #collegeacceptance #victor,,no,no,n,n,0.2,0.79,8.1,4.9,15,0.66,0.22,0.05,0.05,0.02,0.41,0.84
-28,3/21/2024,Thursday,13:22,TikTok,Image,10.7,439,4,29,8,location,#washu #wustl #campusbeauty #campus #greenwall #shesentmeherlocationbruh,,no,no,y,n,29.7,69.31,,,5,0.61,0.22,0.06,0.07,0.02,0.32,0.8
+28,3/21/2024,Thursday,13:22,TikTok,Image,10.7,439,4,29,8,location,#washu #wustl #campusbeauty #campus #greenwall #shesentmeherlocationbruh,,no,no,y,n,0.297,0.6931,,,5,0.61,0.22,0.06,0.07,0.02,0.32,0.8
 29,3/21/2024,Thursday,16:18,TikTok,Video,22.3,1100,6,21,37,"match, med school",#washu #match #matchday #matchday2024 #medicalstudent,WashU School of Medicine,no,no,n,y,0.18,0.81,117,24.4,14,0.61,0.29,0.05,0.03,0.02,0.68,0.92
 30,3/22/2024,Friday,16:27,TikTok,Video,5.0,283,2,16,5,"day in the life, study abroad",#washu #studyabroad #college #collegestudent,,no,no,y,y,0.27,0.72,111,13.4,5,0.67,0.19,0.05,0.06,0.02,0.19,0.58
 31,3/25/2024,Monday,15:11,TikTok,Video,4.2,121,3,18,4,a cappella,#fyp #acapella #singing #guesswhossinging #justintimberlake #pitchperfect #mirrors #college #washu,Sensasians,no,no,n,y,0.31,0.68,36.47,8,4,0.67,0.2,0.05,0.05,0.02,0.19,0.6
